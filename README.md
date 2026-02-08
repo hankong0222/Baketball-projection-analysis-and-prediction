@@ -4,7 +4,6 @@ Motivation
 What is your motivation?
 To understand the full workflow of from coming up with a project idea to understanding its theoretical backgrounds, and to finally putting together the solution. 
 
-Where might you start?
 Looking for the suitable dataset that fits the training  requirements for the final product. Several of these are: 
 https://www.kaggle.com/datasets/energyinvestigators/projectile-motion-in-basketball/data
 https://www.kaggle.com/datasets/techbaron13/nba-shots-dataset-2001-present
@@ -13,8 +12,7 @@ https://www.kaggle.com/datasets/paultimothymooney/nba-player-shooting-motions/da
 What does success look like for you?
 A final product where one stands before the camera and shoot a basketball, so that the UI on screen can generate lines that may predict the path of the ball. 
 Scoping
-1. What is your interest / initial idea?
-(Don’t worry if it’s broad!)
+
 My initial interest is in building a machine learning system that can predict the future trajectory of a basketball shot based on partial observations. Specifically, I want to explore how a model can take in the early portion of a ball’s flight and forecast the rest of its path, potentially even predicting whether the shot will be made or missed.
 At a broader level, I am interested in trajectory prediction, computer vision, and how physics-based reasoning can be combined with deep learning. This project is motivated by applications in sports analytics, real-time feedback systems, and intelligent perception systems that interpret motion from visual data.
 
